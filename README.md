@@ -1,7 +1,8 @@
 # Music-Signal-Processing
 
 ## Survey paper
-
+* Deep Learning for Audio-Based Music Classification and Tagging 
+  - [[PDF]](https://e-tarjome.com/storage/panel/fileuploads/2019-07-04/1562228921_E11422-e-tarjome.pdf)
 ## Music Tagging Model
 * Automatic Music Tagging with Harmonic CNN [ISMIR 2019 Late Break Demo]
   - [[PDF]](https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR_2019_LBD__Automatic_Music_Tagging_with_Harmonic_CNN.pdf)
@@ -37,6 +38,7 @@
   
 ## Other material
 * Neural Architectures for Music Representation Learning [[URL]](https://sanghyukchun.github.io/home/media/slides/2020_May_music_architectures.pdf)
+* Audio Tagging (papers-with-code)[[URL]](https://paperswithcode.com/task/audio-tagging)
 ### Keyword
 * Music information retrieval
 * Automatic Music Tagging
