@@ -14,7 +14,7 @@
   - [[PDF]](https://arxiv.org/abs/1911.04385) [[VIDEO]](https://slideslive.com/38917439/visualizing-and-understanding-selfattention-based-music-tagging)
 * Toward Interpretable Music Tagging with Self-Attention [ArXiv 2019]
   - [[PDF]](https://arxiv.org/abs/1906.04972) [[CODE]](https://github.com/minzwon/self-attention-music-tagging)
-* Audio Auti Tagging 
+* Audio Auto Tagging 
   - [[CODE]](https://github.com/emarkou/Audio-auto-tagging)
 * Music Auto Tagging keras 
   - [[CODE]](https://github.com/keunwoochoi/music-auto_tagging-keras)
@@ -38,7 +38,7 @@
   
 ## Other material
 * Neural Architectures for Music Representation Learning [[URL]](https://sanghyukchun.github.io/home/media/slides/2020_May_music_architectures.pdf)
-* Audio Tagging (papers-with-code)[[URL]](https://paperswithcode.com/task/audio-tagging)
+* Audio Tagging (papers-with-code) [[URL]](https://paperswithcode.com/task/audio-tagging)
 ### Keyword
 * Music information retrieval
 * Automatic Music Tagging
