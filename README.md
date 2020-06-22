@@ -26,6 +26,8 @@
 * Essentia [[URL]](https://essentia.upf.edu)
 
 ## Conference & Challenge
+* International Society for Music Information Retrieval (ISMIR) [[URL]](https://ismir.net)
+  - [[2019 Proceedings]](https://ismir.net/conferences/ismir2019.html)
 * Machine Learning for Music Discovery (ICML'19 Workshop) [[URL]](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=3517)
 * Machine Learning for Media Discovery (ICML'20 Workshop) [[URL]](https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5736)
 
