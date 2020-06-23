@@ -22,8 +22,8 @@
   - [[PDF]](http://ismir2018.ircam.fr/doc/pdfs/191_Paper.pdf) [[CODE]](https://github.com/jordipons/music-audio-tagging-at-scale-models)
 * Automatic tagging using deep convolutional neural networks [ISMIR 2016]
   - [[PDF]](https://arxiv.org/abs/1606.00298) [[SLIDE]](https://www.slideshare.net/KeunwooChoi/automatic-tagging-using-deep-convolutional-neural-networks-ismir-2016)
- * Convolutional Recurrent Neural Networks for Music Classification [arXiv 2016]
- * Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras [arXiv 2017]
+* Convolutional Recurrent Neural Networks for Music Classification [arXiv 2016]
+* Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras [arXiv 2017]
   - [[PDF]](https://arxiv.org/pdf/1706.05781.pdf)
  
 ## Music Generation Model
