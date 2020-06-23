@@ -50,3 +50,4 @@
 * Music information retrieval
 * Automatic Music Tagging
 * Music Finger-printing
+* Audio Normalization
