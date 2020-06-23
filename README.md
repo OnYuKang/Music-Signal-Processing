@@ -20,6 +20,10 @@
   - [[CODE]](https://github.com/keunwoochoi/music-auto_tagging-keras)
 * End-to-end Learning for Music Audio Tagging at Scale [ISMIR 2018]
   - [[PDF]](http://ismir2018.ircam.fr/doc/pdfs/191_Paper.pdf) [[CODE]](https://github.com/jordipons/music-audio-tagging-at-scale-models)
+* Automatic tagging using deep convolutional neural networks [ISMIR 2016]
+  - [[PDF]](https://arxiv.org/abs/1606.00298) [[SLIDE]](https://www.slideshare.net/KeunwooChoi/automatic-tagging-using-deep-convolutional-neural-networks-ismir-2016)
+ * Convolutional Recurrent Neural Networks for Music Classification [arXiv 2016]
+ 
 ## Music Generation Model
 * Music Transformer [[PDF]](https://arxiv.org/abs/1809.04281)
 
