@@ -43,6 +43,7 @@
 ## Other material
 * Neural Architectures for Music Representation Learning [[URL]](https://sanghyukchun.github.io/home/media/slides/2020_May_music_architectures.pdf)
 * Audio Tagging (papers-with-code) [[URL]](https://paperswithcode.com/task/audio-tagging)
+* Clova Music: 똑똑한 DJ같은 AI 비서 [[URL]](http://sigai.or.kr/workshop/AI-for-everyone/2018/slides/Clova-Music-똑똑한-DJ같은-AI-비서.pdf)
 ### Keyword
 * Music information retrieval
 * Automatic Music Tagging
