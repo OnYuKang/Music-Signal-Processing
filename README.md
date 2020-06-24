@@ -31,6 +31,8 @@
 
 ## Open-Source Library
 * Essentia [[URL]](https://essentia.upf.edu)
+* Librosa [[URL]](https://librosa.org)
+* Magenta(Google Brain) [[URL]](https://magenta.tensorflow.org)
 
 ## Conference & Challenge
 * International Society for Music Information Retrieval (ISMIR) [[URL]](https://ismir.net)
