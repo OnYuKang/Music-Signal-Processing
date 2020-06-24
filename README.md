@@ -37,7 +37,7 @@
   - [[2019 Proceedings]](https://ismir.net/conferences/ismir2019.html)
 * Machine Learning for Music Discovery (ICML'19 Workshop) [[URL]](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=3517)
 * Machine Learning for Media Discovery (ICML'20 Workshop) [[URL]](https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5736)
-* MIREX [[URL]] (https://www.music-ir.org/mirex)
+* MIREX [[URL]](https://www.music-ir.org/mirex)
 
 ## Dataset
 * The MagnaTagATune Dataset [[URL]](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
