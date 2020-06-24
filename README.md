@@ -34,7 +34,7 @@
   - [[PDF]](https://arxiv.org/abs/1912.01203)
 * Music Mood Detection Based On Audio And Lyrics With Deep Neural Net [arXiv 2018]
   - [[PDF]](https://arxiv.org/abs/1809.07276)
-* https://link.springer.com/chapter/10.1007/978-981-13-9042-5_40 [Springer]
+* Music Tagging and Similarity Analysis for Recommendation System [Springer]
   - [[EBOOK]](https://link.springer.com/chapter/10.1007/978-981-13-9042-5_40)
  
 ## Music Information Retrieval (MIR)
