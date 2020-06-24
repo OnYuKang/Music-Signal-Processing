@@ -1,9 +1,8 @@
 # Music-Signal-Processing
 
 ## Survey paper
-* Deep Learning for Audio-Based Music Classification and Tagging [IEEE 2019]
+* Deep Learning for Audio-Based Music Classification and Tagging 
   - [[PDF]](https://e-tarjome.com/storage/panel/fileuploads/2019-07-04/1562228921_E11422-e-tarjome.pdf)
-  
 ## Music Tagging Model
 * Automatic Music Tagging with Harmonic CNN [ISMIR 2019 Late Break Demo]
   - [[PDF]](https://ccrma.stanford.edu/~urinieto/MARL/publications/ISMIR_2019_LBD__Automatic_Music_Tagging_with_Harmonic_CNN.pdf)
@@ -38,6 +37,7 @@
   - [[2019 Proceedings]](https://ismir.net/conferences/ismir2019.html)
 * Machine Learning for Music Discovery (ICML'19 Workshop) [[URL]](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=3517)
 * Machine Learning for Media Discovery (ICML'20 Workshop) [[URL]](https://icml.cc/Conferences/2020/ScheduleMultitrack?event=5736)
+* MIREX [[URL]] (https://www.music-ir.org/mirex)
 
 ## Dataset
 * The MagnaTagATune Dataset [[URL]](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
@@ -47,7 +47,6 @@
 * Neural Architectures for Music Representation Learning [[URL]](https://sanghyukchun.github.io/home/media/slides/2020_May_music_architectures.pdf)
 * Audio Tagging (papers-with-code) [[URL]](https://paperswithcode.com/task/audio-tagging)
 * Clova Music: 똑똑한 DJ같은 AI 비서 [[URL]](http://sigai.or.kr/workshop/AI-for-everyone/2018/slides/Clova-Music-똑똑한-DJ같은-AI-비서.pdf)
-
 ### Keyword
 * Music information retrieval
 * Automatic Music Tagging
