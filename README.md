@@ -34,6 +34,8 @@
   - [[PDF]](https://arxiv.org/abs/1912.01203)
 * Music Mood Detection Based On Audio And Lyrics With Deep Neural Net [arXiv 2018]
   - [[PDF]](https://arxiv.org/abs/1809.07276)
+* https://link.springer.com/chapter/10.1007/978-981-13-9042-5_40 [Springer]
+  - [[EBOOK]](https://link.springer.com/chapter/10.1007/978-981-13-9042-5_40)
  
 ## Music Information Retrieval (MIR)
 * Transfer Learning In MIR: Sharing Learned Latent Representations For Music Audio Classification And Similarity [Google Research 2013]
@@ -50,6 +52,10 @@
   - [[PDF]](https://ieeexplore.ieee.org/abstract/document/8659612)
 * Residual DNN-CRF Model for Audio Chord Recognition [2017]
   - [[PDF]](https://pdfs.semanticscholar.org/a8f1/9ffa2c6b7be3f51febf18fa46d942feac0a5.pdf)
+
+## Music Plagiarism Detection
+* Fuzzy vectorial-based similarity detection of music plagiarism [FUZZ-IEEE 2017]
+  - [[PDF]](https://ieeexplore.ieee.org/abstract/document/8015655)
 
 ## Open-Source Library
 * Essentia [[URL]](https://essentia.upf.edu)
