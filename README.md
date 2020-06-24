@@ -28,6 +28,7 @@
  
 ## Music Generation Model
 * Music Transformer [[PDF]](https://arxiv.org/abs/1809.04281)
+* Encoding Musical Style with Transformer Autoencoders [[PDF]]https://arxiv.org/abs/1912.05537
 
 ## Open-Source Library
 * Essentia [[URL]](https://essentia.upf.edu)
