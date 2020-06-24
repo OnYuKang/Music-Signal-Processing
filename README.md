@@ -25,6 +25,8 @@
 * Convolutional Recurrent Neural Networks for Music Classification [arXiv 2016]
 * Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras [arXiv 2017]
   - [[PDF]](https://arxiv.org/pdf/1706.05781.pdf) [[CODE]](https://github.com/keunwoochoi/kapre)
+* Music Auto-tagging Using CNNs and Mel-spectrograms With Reduced Frequency and Time Resolution [arXiv 2019]
+  - [[PDF]](https://arxiv.org/abs/1911.04824)
  
 ## Music Generation Model
 * Music Transformer [[PDF]](https://arxiv.org/abs/1809.04281)
